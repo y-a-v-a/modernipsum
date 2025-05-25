@@ -26,11 +26,10 @@ The generator randomly combines art terminology from the corpus file to create p
 
 ## Credits
 
-Created by Y-a-v-a and ax710 (artists) in 2011, with inspiration from:
-- Bacon Ipsum
-- Tuna Ipsum  
+Created by [y-a-v-a.org](https://www.y-a-v-a.org) and [ax710](https://www.ax710.org) (artists) in 2011, with inspiration from:
+- [Bacon Ipsum](https://baconipsum.com/)
+- [Tuna Ipsum](https://tunaipsum.com/)  
 - Kazimir Malevich and Marcel Duchamp
 - WordPress Twenty-Ten theme
-- Mathew Tinsley's PHP class
 
 © 2011 Modernipsum. All rights reserved.

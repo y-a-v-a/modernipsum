@@ -194,7 +194,7 @@
                     echo '<div class="question">You\'re missing an -ism!</div>';
                     echo '<div class="answer">Well, send it over to us and we will add it if it\'s art related!</div>';
                     echo '<div class="question">How did you make this site?</div>';
-                    echo '<div class="answer">The guy from Bacon Ipsum, the guy from Tuna Ipsum, WordPress, Mathew Tinsley for the PHP class, Kazimir Malevich and Marcel Duchamp made this all happen. Y-a-v-a and ax710 did some coding and the graphics, except for the theme which loosely inspired by the Twenty-Ten from WordPress.</div>';
+                    echo '<div class="answer">The guy from Bacon Ipsum, the guy from Tuna Ipsum, WordPress, Kazimir Malevich and Marcel Duchamp made this all happen. Y-a-v-a and ax710 did some coding and the graphics, except for the theme which loosely inspired by the Twenty-Ten from WordPress.</div>';
                     echo '<div class="question">Who are you?</div>';
                     echo '<div class="answer">See <a href="https://www.infrath.in" target="_blank">y-a-v-a.org and ax710.org</a>\'s website. We\'re artists, we mix stuff into something.</div>';
                     echo '<div class="question">Do you have a picture of a man with an artwork?</div>';
