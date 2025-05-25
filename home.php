@@ -56,38 +56,3 @@
     ?>
 </div>
 
-<style>
-.container {
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 0 20px;
-    text-align: center;
-}
-
-.generate-btn {
-    background-color: #ff6600;
-    color: white;
-    border: none;
-    padding: 15px 30px;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 5px;
-    margin-bottom: 30px;
-}
-
-.generate-btn:hover {
-    background-color: #e55a00;
-}
-
-.lorem-text {
-    text-align: left;
-    line-height: 1.6;
-    font-size: 14px;
-    color: #333;
-    margin-bottom: 40px;
-}
-
-.lorem-text p {
-    margin-bottom: 15px;
-}
-</style>
