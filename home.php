@@ -1,4 +1,5 @@
 <div class="container">
+    <h2>An Artier Lorem Ipsum Generator</h2>
     <form method="post" action="">
         <button type="submit" name="generate" class="generate-btn">Generate Modernipsum</button>
     </form>
@@ -9,11 +10,11 @@
         $corpus = file('corpus.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
         
         // Function to generate random modernipsum text
-        function generateModernipsum($corpus, $paragraphs = 3) {
+        function generateModernipsum($corpus, $paragraphs = 5) {
             $text = '';
             
             for ($p = 0; $p < $paragraphs; $p++) {
-                $sentences = rand(4, 8);
+                $sentences = rand(5, 8);
                 $paragraph = '';
                 
                 for ($s = 0; $s < $sentences; $s++) {

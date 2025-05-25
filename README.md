@@ -17,7 +17,6 @@ Modernipsum is a PHP-based web application that generates placeholder text using
 
 - `index.php` - Main application file with routing and page layout
 - `home.php` - Homepage with the text generator functionality
-- `about.php` - About page with project information
 - `corpus.txt` - Text corpus containing art-related terms and movements
 - `background_modernipsum.png` - Header background image
 

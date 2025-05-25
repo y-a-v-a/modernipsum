@@ -1,42 +1,62 @@
+aboriginal art
 abstract expressionism
 academic formalism
 academic mannerism
 academic post-impressionism
 action painting
 aestheticism
+afrofuturism
+ai art
+altermodernism
+anthropophagy movement
 art deco
 art nouveau
+arte povera
+artivism
+augmented reality art
 avant-garde
 barbizon school
 baroque
 bauhaus
 biedermeier
+bio art
 caravaggisti
 carolingian
+chicano art movement
 classicism
 cobra
 color field painting
 conceptual art
+constructivism
+crypto art
 cubism
 cubo-futurism
+culture jamming
 dada
 dadaism
 de stijl
 deco
+decolonial art
 deformalism
 der blaue reiter
+détournement
 die brücke
+digital art
 divisionism
 eclecticism
 ego-futurism
 existentialism
 expressionism
+fauvism
+feminist art
 fluxus
 formalism
 futurism
 geometric abstraction
+glitch art
 gothic art
 gründerzeit
+gutai
 hard-edge painting
 hudson river school
 humanism
@@ -46,29 +66,40 @@ illusionism
 immagine&poesia
 impressionism
 incoherents
+indigenous futurism
 installation art
+institutional critique
 international gothic
 international humanism
 international illusionism
 international neo-expressionism
+internet art
 intervention art
 jugendstil
 kinetic art
+kitchen sink school
+kitch art
 land art
 les nabis
 lettrism
 lowbrow
+lowbrow/pop surrealism
 luminism
+machine learning art
+magic realism
 mail art
 manierism
 mannerism
 maximalism
+memento mori
 merovingian
 merovingian art
+metamodernism
 metaphysical art
 minimalism
 modern art
 modernism
+mono-ha
 monumentalism
 multiculturalism
 naturalism
@@ -80,9 +111,12 @@ neo-geo
 neo-impressionism
 neo-minimalism
 neoclassicism
+net art
 neue slowenische kunst
+new aesthetic
 new media art
 new objectivity
+nft art
 nonconformism
 nouveau
 nouveau futurism
@@ -91,12 +125,14 @@ op art
 orphism
 ottonian
 outsider art
+pattern and decoration movement
 performance art
 perspectivism
 photorealism
 pointilism
 pop art
 post-impressionism
+post-internet art
 post-minimalism
 post-painterly abstraction
 post-structuralism
@@ -106,19 +142,26 @@ postmodernism
 pre-raphaelites
 precisionism
 primitivism
+provisional painting
+psychedelic art
 purism
 rayonism
+relational aesthetics
 relational art
 remodernism
 renaissance
 romanesque
 romanticism
 russian
+russian constructivism
 russian futurism
+school of london
 scuola romana
+seapunk
 secularism
 secularism art
 situationist
+social practice art
 social realism
 socialist realism
 sound art
@@ -135,7 +178,16 @@ synthetism
 systems art
 tachism
 tachisme
+tactical media
 tonalism
+transavantgarde
+trash art
+tropicália
+vanitas
+vaporwave
 video game art
+viennese actionism
+virtual reality art
 vorticism
 young british artists
+zombie formalism
